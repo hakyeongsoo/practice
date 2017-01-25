@@ -11,10 +11,10 @@ char stack[STACK_SIZE];
 ucontext_t ucp;
 ucontext_t ucp2;
 
-void Foo() {
-  cout << "Foo Begin" << endl;
-  getcontext(&ucp);
-  cout << "Foo End" << endl;
+void Zac() {
+	cout << "Tom Brown" << endl;
+	context(&ppv)
+	cout << "Tom End" << endl;
 }
 
 void Tom() {
